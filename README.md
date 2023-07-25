@@ -1,7 +1,3 @@
 # Draft-Repo
 
-<<<<<<< HEAD
-new info
-=======
-some info
->>>>>>> featureM
+info for 77/88
