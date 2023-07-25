@@ -3,4 +3,8 @@ string 2
 string 3
 string 4
 
+<<<<<<< HEAD
 
+=======
+line 55 and 66
+>>>>>>> featureM
