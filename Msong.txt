@@ -1,20 +1,6 @@
 
-<<<<<<< HEAD
 string 2
 string 3
 string 4
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
-line 55 and 66
->>>>>>> featureM
-=======
-line 55 and 66
-
-line 77 and 88
->>>>>>> featureM
-=======
-string 1
->>>>>>> featureM
